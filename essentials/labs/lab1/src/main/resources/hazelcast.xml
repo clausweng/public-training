@@ -7,5 +7,4 @@
         <name>dev-configured-from-xml</name>
         <password>1234</password>
     </group>
-    <import resource="hazelcast-network-config.xml"/>
 </hazelcast>
